@@ -1,0 +1,25 @@
+INFO: Starting training:
+        Epochs:          5
+        Batch size:      5
+        Learning rate:   1e-05
+        Training size:   900
+        Validation size: 100
+        Checkpoints:     True
+        Device:          cpu
+        Images scaling:  0.5
+        Mixed Precision: False
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 1/5:   7%|▋         | 65/900 [01:02<13:25,  1.04img/s, loss (batch)=5.54]
+INFO: Saved interrupt

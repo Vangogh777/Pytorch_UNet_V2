@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.6.13",
+    "heartbeatAt": "2022-04-17T14:15:30.996841",
+    "startedAt": "2022-04-17T14:15:28.314531",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1050 Ti",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:/Projects/Pytorch/Pytorch-UNet-master - \u526f\u672c/train - \u526f\u672c.py",
+    "codePath": "train - \u526f\u672c.py",
+    "host": "DESKTOP-APLLOTT",
+    "username": "12500",
+    "executable": "C:\\Anaconda\\envs\\pytorch\\python.exe"
+}
